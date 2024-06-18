@@ -1,0 +1,12 @@
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.csproj.AssemblyReference.cache
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.AssemblyInfoInputs.cache
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.AssemblyInfo.cs
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.csproj.CoreCompileInputs.cache
+D:\SahovskaFederacija1\SahFederacijaLibrary\bin\Debug\net8.0\SahFederacijaLibrary.deps.json
+D:\SahovskaFederacija1\SahFederacijaLibrary\bin\Debug\net8.0\SahFederacijaLibrary.dll
+D:\SahovskaFederacija1\SahFederacijaLibrary\bin\Debug\net8.0\SahFederacijaLibrary.pdb
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.dll
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\refint\SahFederacijaLibrary.dll
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\SahFederacijaLibrary.pdb
+D:\SahovskaFederacija1\SahFederacijaLibrary\obj\Debug\net8.0\ref\SahFederacijaLibrary.dll
